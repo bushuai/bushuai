@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![visitor](https://visitor-badge.glitch.me/badge?page_id=bushuai.bushuai)
 -->
 
-![visitor](https://visitor-badge.glitch.me/badge?page_id=bushuai.bushuai)
+
+bushuai · developer
